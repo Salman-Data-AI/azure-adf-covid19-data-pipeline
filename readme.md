@@ -103,6 +103,8 @@ The solution follows a layered architecture:
 
 Processed data is visualized using Power BI for trend analysis and reporting.
 
+![Data Transfer Diagram](Sample%20PBI%20Dashboard%20Diagram.JPG)
+   
 ---
 
 ## 📚 References
